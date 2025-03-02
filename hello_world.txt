@@ -2,3 +2,5 @@ Hello World!
 「GitHub実践入門 Pull Requestによる開発の変革」の練習
 
 4章（p53）マージ
+
+practice-cloneからの編集。
